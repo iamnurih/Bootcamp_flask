@@ -1,0 +1,18 @@
+body{
+     box-sizing : border-box;
+     font-family: "Yeon Sung", system-ui;
+     font-weight: 400;
+     font-style: normal;
+     text-align: center;
+     background-color: #BFDDE0;
+}
+
+h1{
+    color: #444444;
+
+}
+
+button{
+    background-color: #ffffff;
+
+}

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Fruits</title>
+</head>
+<body>
+<h1> 과일 목록 </h1>
+<ul>
+
+    {% for fruits in fruits %}
+        {% if fruits == "strawberry" %}
+        <li> {{ fruits }} 🍓(popular!) </li>
+    {% else %}
+        <li>{{ fruits }}</li>
+    {% endif %}
+    {% endfor %}
+
+</ul>
+</body>
+</html>
