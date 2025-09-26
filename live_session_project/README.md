@@ -2,14 +2,14 @@
 저는 백엔드니까요....
 사실 html과 css도 신경을 쓰고싶었지만 시간이 없었어요.. 죄송.. 
 
-<img src = "mainscreen.png" alt = "메인화면" width="300"> 
+<img src = "mainscreen.png" alt = "메인화면" width="500"> 
 
 작성화면... 
 
-<img src = "create.png" alt = "포스팅 작성" width="300">
+<img src = "create.png" alt = "포스팅 작성" width="500">
 
 삭제를 누르면 이렇게 뜹니다 
 
-<img src = "delete.png" alt = "삭제" width = "300">
+<img src = "delete.png" alt = "삭제" width = "500">
 
 
